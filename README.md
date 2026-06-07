@@ -2,6 +2,8 @@
 
 EfficientNetB2 transfer learning classifier for 30-class brain tumor MRI dataset.
 
+DATASET -> https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-30-classes?resource=download
+
 ---
 
 ## Folder Structure
